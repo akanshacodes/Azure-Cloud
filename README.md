@@ -1,0 +1,2 @@
+# Azure-Cloud
+Basic Azure
